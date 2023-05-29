@@ -1,13 +1,14 @@
-## 백준 1단계 - 입출력과 사칙연산 - 문제풀이
+# 2557. Hello World
 
-> 2557. Hello World
- - 문제 : Hello World!를 출력하시오.
+## 문제 : Hello World!를 출력하시오.
 
-**풀이**
+## 문제풀이
 ```
 console.log("Hello World!);
 ```
-##
+## 공부한 것
+출력 시 console.log() 사용하기
+
 > 1000. A+B
  - 문제 : 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.
  
